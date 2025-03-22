@@ -1,0 +1,5 @@
+venv/
+.env
+*.log
+sent_articles.txt
+__pycache__/
